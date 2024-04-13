@@ -1,0 +1,11 @@
+# Project exclude paths
+/build/
+/.idea/
+/.vscode
+.DS_Store
+.VSCodeCounter
+todo.md
+/bin/*
+
+# except for .gitkeep
+!.gitkeep
